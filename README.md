@@ -1,6 +1,6 @@
 <h2> Hi there, I'm Mohammed Mahmoud 👋 </h2>
 
-- FLutter Dev
+- mobile developer (FLutter)
 
 <hr>
 
