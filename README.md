@@ -6,13 +6,20 @@
 
 <h2> Contact with me on </h2>
 
-- my email 📨 : mhymwr847@gmail.com
-
-
-<p> <a href="https://www.facebook.com/profile.php?id=100056578988785" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+- personal email 📨 : mhymwr847@gmail.com
+- personal phone number : +966 58 236 8201
+ 
 <hr>
 
-<h2> Samples from my projects </h2>
+<p> <a href="https://www.facebook.com/profile.php?id=100056578988785" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Facebook-4267B2.svg?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+
+<p> <a href="https://www.facebook.com/profile.php?id=100056578988785" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  
+  <p> <a href="https://www.facebook.com/profile.php?id=100056578988785" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Facebook-4267B2.svg?style=for-the-badge&logo=linkin&logoColor=white" /></a>
+ 
+<hr>
+
+<h2> Sample from my projects </h2>
 
 ### Irshad - إرشاد
 
