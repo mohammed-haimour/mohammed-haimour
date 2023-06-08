@@ -1,4 +1,4 @@
-<h2> Hi there, I'm Mohammed Mahmoud 👋:heart: </h2>
+<h2> Hi there, I'm Mohammed Mahmoud 👋 </h2>
 
 - FLutter Dev
 
