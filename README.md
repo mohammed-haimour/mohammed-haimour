@@ -15,9 +15,7 @@
 <p> <a href="https://twitter.com/dVv0h9EgfoEOK62" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-4267B2.svg?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 
 <p> <a href="https://www.facebook.com/profile.php?id=100056578988785" target="_blank"><img alt="FaceBook" src="https://img.shields.io/badge/Facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  
-  <p> <a href="https://www.linkedin.com/in/mohammed-mahmoud-a91b69220/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin-4267B2.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
- 
+
 <hr>
 
 <h2> Sample from my projects </h2>
