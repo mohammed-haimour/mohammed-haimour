@@ -20,9 +20,8 @@
 
 <h2> Sample from my projects </h2>
 
-### Irshad -
+### Irshad - MOBILE APP
 
- irshad -
 <br>
 It is an applied educational platform whose counseling programs aimed at families, specialists and teachers aim to support the development of children and treat their problems of different characteristics and levels in all their life stages, especially the critical ones, from the beginning of pregnancy through early childhood until adulthood.
 
