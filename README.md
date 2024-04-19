@@ -23,7 +23,6 @@
 ### Irshad - إرشاد
 
 إرشاد irshad - 
-هي منصة تثقيفية تطبيقة تستهدف برامجها الإرشادية الموجهة للأسر والأخصائيين والمعلمين دعم تطور الأبناء وعلاج مشكلاتهم على اختلاف صفاتهم ومستوياتهم في جميع مراحلهم العمرية لا سيما الحرجة منها من بداية مرحلة الحمل مرورا بالطفولة المبكرة حتى مرحلة البلوغ
 <br>
 It is an applied educational platform whose counseling programs aimed at families, specialists and teachers aim to support the development of children and treat their problems of different characteristics and levels in all their life stages, especially the critical ones, from the beginning of pregnancy through early childhood until adulthood.
 
