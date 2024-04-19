@@ -7,7 +7,7 @@
 
 <h2> Contact with me on </h2>
 
-- personal email 📨 : mhymwr847@gmail.com
+- personal email 📨 : maxwidth1000@gmail.com
 - personal phone number 📱 : +966 58 236 8201
  
 <hr>
