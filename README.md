@@ -1,5 +1,6 @@
 <h2> Hi there, I'm Mohammed Haimour 👋 </h2>
-- Winforms with c# and Sql server 
+- MAIN ( Winforms with c# and Sql server )
+for fun --> 
 - front end (html ,css [saas , bootstrap , etc...],js)
 - mobile developer (FLutter)
 
