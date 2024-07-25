@@ -2,10 +2,9 @@
 
 <h3>maybe working in some private repos 😉</h3>
 
-- MAIN ( Winforms with c# and Sql server )
-for fun --> 
-- front end (html ,css [saas , bootstrap , etc...],js)
-- mobile developer (FLutter)
+- best in ( Winforms with c# and Sql server )
+- (for fun) front end (html ,css [saas , bootstrap , etc...],js)
+- (mid) mobile developer (FLutter)
 
 <hr>
 
