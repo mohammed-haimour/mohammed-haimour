@@ -2,7 +2,7 @@
 
 <h3>maybe working in some private repos 😉</h3>
 
-- best in ( Winforms with c# and Sql server , soon APIS 🫡 )
+- best in ( Winforms with c# and Sql server , soon APIS 🫡 , C++ ,problem solving)
 - (for fun) front end (html ,css [saas , bootstrap , etc...],js)
 - (mid) mobile developer (FLutter)
 
