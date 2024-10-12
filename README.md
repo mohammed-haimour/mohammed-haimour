@@ -22,7 +22,7 @@
 
 <h2> Sample from my projects </h2>
 
-### Irshad - MOBILE APP
+### Irshad - MOBILE APP (This project is no longer available due to its age. Please check my repository for my latest projects and updates.)
 
 <br>
 It is an applied educational platform whose counseling programs aimed at families, specialists and teachers aim to support the development of children and treat their problems of different characteristics and levels in all their life stages, especially the critical ones, from the beginning of pregnancy through early childhood until adulthood.
