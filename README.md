@@ -4,11 +4,15 @@
 
 <h2  align="center"> Hi there, I'm Mohammed Haimour 👋 </h2>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohammed-haimour&theme=blue_green "Profile Details")
+<div align="center" >
+  
+![](https://github-widgetbox.vercel.app/api/profile?username=mohammed-haimour&data=repositories,commits&theme=nautilus)
+
 
 <h3>Not Active ??? maybe working in some private repos 😉</h3>
 
-![](https://github-widgetbox.vercel.app/api/profile?username=mohammed-haimour&data=repositories,commits&theme=nautilus)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohammed-haimour&theme=blue_green "Profile Details")
+</div>
 
 
 
