@@ -1,12 +1,23 @@
-<h2> Hi there, I'm Mohammed Haimour 👋 </h2>
+<div align="center" >
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100px">
+</div>
 
-<h3>maybe working in some private repos 😉</h3>
+<h2  align="center"> Hi there, I'm Mohammed Haimour 👋 </h2>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohammed-haimour&theme=blue_green "Profile Details")
+
+<h3>Not Active ??? maybe working in some private repos 😉</h3>
+
+![](https://github-widgetbox.vercel.app/api/profile?username=mohammed-haimour&data=repositories,commits&theme=nautilus)
+
+
 
 - best in ( Winforms with c# and Sql server , soon APIS 🫡 , C++ ,problem solving)
 - (for fun) front end (html ,css [saas , bootstrap , etc...],js)
 - (mid) mobile developer (FLutter)
 
 <hr>
+
 
 <h2> Contact with me on </h2>
 
@@ -33,17 +44,4 @@ It is an applied educational platform whose counseling programs aimed at familie
 
 <hr>
 
-<!--
-**mohammed-haimour/mohammed-haimour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
