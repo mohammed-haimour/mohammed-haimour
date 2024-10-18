@@ -8,6 +8,7 @@
   
 ![](https://github-widgetbox.vercel.app/api/profile?username=mohammed-haimour&data=repositories,commits&theme=nautilus)
 
+![](https://komarev.com/ghpvc/?username=mohammed-haimour&color=green)
 
 <h3>Not Active ??? maybe working in some private repos 😉</h3>
 
