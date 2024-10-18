@@ -16,10 +16,7 @@
 </div>
 
 
-
-- best in ( Winforms with c# and Sql server , soon APIS 🫡 , C++ ,problem solving)
-- (for fun) front end (html ,css [saas , bootstrap , etc...],js)
-- (mid) mobile developer (FLutter)
+- Flutter , C# WinForms , Microsoft Sql Server 
 
 <hr>
 
